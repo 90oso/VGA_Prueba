@@ -1,5 +1,6 @@
 # Makefile
 # See https://docs.cocotb.org/en/stable/quickstart.html for more info
+PROJECT_SOURCES = project.v hvsync_generator.v
 
 # defaults
 SIM ?= icarus
