@@ -13,7 +13,7 @@ Just a video game, using number pads to play.
 
 ## How to test
 
-Explain how to use your project. 
+Clone the repo
 
 ## External hardware
 
